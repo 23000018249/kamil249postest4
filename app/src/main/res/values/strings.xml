@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Kewarganegaraan</string>
+
+    <string-array name="status_pernikahan_array">
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Cerai</item>
+    </string-array>
+
+</resources>
